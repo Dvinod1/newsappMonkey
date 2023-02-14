@@ -1,0 +1,161 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Huge earthquake in south-east Turkey kills more than 100",
+            "description": "More than 70 deaths are confirmed in Turkey, and more than 50 in neighbouring Syria.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64533851",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3D61/production/_128531751_mediaitem128531749.jpg",
+            "publishedAt": "2023-02-06T05:52:22.6679872Z",
+            "content": "A powerful earthquake has hit a wide area in south-eastern Turkey, near the Syrian border, killing more than 100 people and trapping many others.\r\nThe US Geological Survey said the 7.8 magnitude trem… [+2236 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Pervez Musharraf, Pakistan's ex-president, dies aged 79",
+            "description": "The former president, who seized power in a coup in 1999, survived numerous assassination attempts.",
+            "url": "http://www.bbc.co.uk/news/world-asia-64528348",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C64A/production/_128526705_33dbfc565291ec382f69f7efde3aa5c58cdaf8760_0_3500_23541000x673.jpg",
+            "publishedAt": "2023-02-06T04:07:21.0899029Z",
+            "content": "Media caption, Pervez Musharraf: Pakistan's coup leader who died in exile\r\nPakistan's former president General Pervez Musharraf, who seized power in a coup in 1999, has died aged 79.\r\nThe former lead… [+3348 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The Antarctic and Arctic sounds rarely heard before",
+            "description": "The poles are not known for being noisy but a project reveals their weird and wonderful sounds.",
+            "url": "http://www.bbc.co.uk/news/science-environment-64514258",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16FD1/production/_128516149_gettyimages-1376599415.jpg",
+            "publishedAt": "2023-02-06T03:52:16.9813839Z",
+            "content": "Media caption, A project reveals the weird and wonderful sounds of the polar regions.\r\nWhat do you hear when you think of the Arctic and Antarctic? \r\n\"Singing\" ice, a seal that sounds like it is in s… [+3668 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Grammy Awards 2023: Beyoncé becomes the biggest winner in history",
+            "description": "With her latest award, the star becomes the most celebrated artist in the ceremony's history.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-64533539",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4E37/production/_128532002_gettyimages-161419371.jpg",
+            "publishedAt": "2023-02-06T03:37:20.6536382Z",
+            "content": "Beyoncé has broken the record for the most Grammy Award wins of all time, after collecting her 32nd trophy at this year's ceremony.\r\nThe singer made history as she won best dance/electronic album, fo… [+4367 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: The five key cities and towns in Russia's sights",
+            "description": "There are signs Russia is preparing a new offensive - James Waterhouse in Kyiv looks at Moscow's objectives.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64533495",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AEA9/production/_128531744_mediaitem128531743.jpg",
+            "publishedAt": "2023-02-06T01:22:22.949976Z",
+            "content": "You're going to hear the term \"spring offensive\" a lot in the coming weeks of the war in Ukraine. \r\nIn a traditional military sense, it's when armies look to generate momentum after using the poor wi… [+6421 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Epsom College head found dead with husband and daughter, 7",
+            "description": "The head of a private school in Surrey has been found dead along with her husband and seven-year-old daughter.",
+            "url": "http://www.bbc.co.uk/news/uk-64533429",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2023-02-05T23:07:18.6998532Z",
+            "content": "The head of Epsom College has been found dead along with her husband and seven-year-old daughter in a property on school grounds.\r\nEmma Pattinson, 45, her husband George, 39, and their daughter Letti… [+1379 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Pope and protestant leaders denounce gay criminalisation",
+            "description": "Pope Francis said laws which criminalise homosexuality were a sin and \"an injustice\".",
+            "url": "http://www.bbc.co.uk/news/world-64532639",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/45EF/production/_128530971_fa288cdd75c098c0578ff281d2efb6220a5f12de.jpg",
+            "publishedAt": "2023-02-05T19:52:16.4807041Z",
+            "content": "Pope Francis and the leaders of protestant churches in England and Scotland have denounced the criminalisation of homosexuality.\r\nSpeaking to reporters after visiting South Sudan, the Pope said such … [+2862 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China balloon: US searches in Atlantic for wreckage",
+            "description": "The US is trying recover debris from the suspected spy balloon that fell in shallow waters off South Carolina.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64530102",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/28D4/production/_128525401_d7c19ea962eee0ee3ccb761229575b96d4f8d3cd0_0_5500_31952000x1162.jpg",
+            "publishedAt": "2023-02-05T18:52:20.1848097Z",
+            "content": "US Navy divers are working to recover the wreckage of the Chinese surveillance balloon that was shot down off the coast of South Carolina. \r\nAmerica's former top military officer said he expected it … [+4032 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Weekend avalanches kill 10 in Austria and Switzerland",
+            "description": "Officials in western Austria warned winter sports enthusiasts of dangerous conditions in the area.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64530672",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15498/production/_128529178_gettyimages-1246791870.jpg",
+            "publishedAt": "2023-02-05T14:52:19.9186833Z",
+            "content": "Ten people have been killed in several avalanches across the Austrian and Swiss Alps over the weekend.\r\nTourists from New Zealand, China and Germany were among the dead at a number of different ski r… [+1383 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Iran protests: Thousands of prisoners pardoned by ayatollah",
+            "description": "Iranians involved in anti-government protests are among those set to be released.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-64529927",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BC9A/production/_128528284_683710ebb7bf8b0949dc22326f8b4baf28f65f78.jpg",
+            "publishedAt": "2023-02-05T13:37:15.3403451Z",
+            "content": "Iran's supreme leader has pardoned \"tens of thousands\" of prisoners, including many linked to anti-government protests.\r\nState media reports the pardons by Ayatollah Ali Khamenei came with conditions… [+2328 chars]"
+        },
+        
+        {"status":"ok",
+            "totalResults":2
+            ,
+            "articles":
+
+            [{"source":
+            {"id":"espn-cric-info",
+            "name":"ESPN Cric Info"},
+            "author":null,"title":"PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description":"Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url":"http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage":"https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt":"2020-04-27T11:41:47Z",
+            "content":"Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"}
+            ,
+            
+            {"source":{"id":"espn-cric-info",
+            "name":"ESPN Cric Info"},"author"
+            :null,"title":"What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description":"Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url":"http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage":"https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt":"2020-03-30T15:26:05Z",
+            "content":"Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"}]}
+    ]
+}
