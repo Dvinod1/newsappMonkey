@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+// this.props.setProgress(100)
 
 export default class NewsMonkey extends Component {
   render() {
